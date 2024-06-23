@@ -1,4 +1,4 @@
-const baseUrl = "http://localhost:4000/movies/get";
+const baseUrl = "/movies/get";
 
 const input = document.querySelector("input");
 const button = document.querySelector("button");
